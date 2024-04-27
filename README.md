@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Welcome!%22);你好!&center=true&size=27"> </a> </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E7%9C%9F&vCenter=%E7%9C%9F&repeat=%E7%9C%9F&random=%E7%9C%9F&width=435&lines=Welcome+to+you!;I'm+Fokesll)](https://git.io/typing-svg)
 
 
 
